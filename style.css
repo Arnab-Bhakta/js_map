@@ -1,3 +1,8 @@
 .heading{
-    align-content: center;
+    text-align: center;
+}
+
+#map{
+    height: 400px;
+    margin: 0px 60px 0px 60px;
 }
